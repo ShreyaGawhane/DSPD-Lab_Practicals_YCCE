@@ -1,4 +1,6 @@
 //ShreyaGawhane-IT-B-120
+/*This C program creates a linked list to store integer elements.It prompts the user to enter elements and add them to the list until the user enters 0.It then 
+traverse the list and prints each element and "=>"until reaching the null pointer.Finally,it displays the number of nodes in the list.*/
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
@@ -42,4 +44,5 @@ int main()
     printf("NULL\n");
     printf("Total number of nodes: %d\n", count);
     return 0;
+
 }
