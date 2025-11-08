@@ -1,4 +1,6 @@
 //ShreyaGawhane-IT-B-120
+/*Aim:Write a program to accept 'n'numbers into an array and then calculate the sum of numbers present in odd 
+positions and even positions respectively.*/
 #include <stdio.h>
 int main() {
     int n, i;
@@ -19,4 +21,5 @@ int main() {
     printf("Sum of elements at even positions: %d\n", sum_even);
     printf("Sum of elements at odd positions: %d\n", sum_odd);
     return 0;
+
 }
