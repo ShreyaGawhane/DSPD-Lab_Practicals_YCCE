@@ -1,4 +1,11 @@
 //ShreyaGawhane-IT-B-120 
+/*Write a program to Implement a menu driven Program in C for the following operations on QUEUE of Characters (Array Implementation of Queue with maximum size MAX)
+a.Insert an Element on to QUEUE.
+b. Delete an Element from QUEUE.
+c.Demonstrate Overflow and Underflow situations on QUEUE.
+d. Display the status of QUEUE.
+e.Exit
+Support the program with appropriate functions for each of the above operations.*/
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -74,4 +81,5 @@ int main()
         }
     }
     return 0;
+
 }
