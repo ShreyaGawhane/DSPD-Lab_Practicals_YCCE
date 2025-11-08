@@ -1,4 +1,6 @@
 //ShreyaGawhane-IT-B-120 
+/*Write a program which creates a structure Student which must have the attribute Avg Marks with 3 more attributes sort the list of the student in descending 
+order using Bubble sort*/
 #include <stdio.h>
 #include <string.h>
 struct Student {
@@ -44,4 +46,5 @@ int main() {
         printf("%d\t%s\t%s\t%.2f\n", s[i].roll_no, s[i].name, s[i].course, s[i].avg_marks);
     }
     return 0;
+
 }
