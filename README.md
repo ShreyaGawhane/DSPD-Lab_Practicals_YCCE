@@ -35,3 +35,18 @@ c.Demonstrate Overflow and Underflow situations on QUEUE.
 d. Display the status of QUEUE.
 e.Exit
 Support the program with appropriate functions for each of the above operations.](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab3_Queue.c)
+
+
+Lab4. [This C program creates a linked list to store integer elements.It prompts the user to enter elements and add them to the list until the user enters 0.It then 
+traverse the list and prints each element and "=>"until reaching the null pointer.Finally,it displays the number of nodes in the list.](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab4_LinkedList.c)
+
+
+Lab5. [Write a program to insert Number of Nodes in the Binary Tree and Traverse in Inorder , Preorder and Post Order and  Search an element in
+Binary Tree(Display NULL if not found, If found Display Found)](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab5_TreeTraversal.c)
+
+
+Lab6. [Implement Binary search tree(BST) with following Menu operations.
+1.	Search an element in BST(Display NULL if not found, If found Display Found)
+2.	Insert an element in BST
+3.	Delete leaf element in BST
+4.	Exit](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab6_BinarySearchTree.c)
