@@ -25,4 +25,4 @@ c. Demonstrate how Stack can be used to check Palindrome.
 d. Demonstrate Overflow and Underflow situations on Stack
 e.Display the status of Stack
 f.Exit.
-Support the program with appropriate functions for each of the above operations.]()
+Support the program with appropriate functions for each of the above operations.](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab2_Stack.c)
