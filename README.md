@@ -15,4 +15,4 @@ Lab1B. [Write a program to implement a Binary Search algorithm. Write a search f
 
 
 Lab1C. [Write a program which creates a structure Student which must have the attribute Avg Marks with 3 more attributes sort the list of the student in descending 
-order using Bubble sort]()
+order using Bubble sort](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab1C_StructStudent.c)
