@@ -18,4 +18,11 @@ Lab1C. [Write a program which creates a structure Student which must have the at
 order using Bubble sort](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab1C_StructStudent.c)
 
 
-Lab2. [](link jo copy ki h)
+Lab2. [Write a program to Implement a menu driven Program in C for the following operations on STACK of Integers (Array Implementation of Stack with maximum size MAX)
+a. Push an Element on to Stack
+b. Pop an Element from Stack
+c. Demonstrate how Stack can be used to check Palindrome.
+d. Demonstrate Overflow and Underflow situations on Stack
+e.Display the status of Stack
+f.Exit.
+Support the program with appropriate functions for each of the above operations.]()
