@@ -45,11 +45,7 @@ Lab5. [Write a program to insert Number of Nodes in the Binary Tree and Traverse
 Binary Tree(Display NULL if not found, If found Display Found)](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab5_TreeTraversal.c)
 
 
-Lab6. [Implement Binary search tree(BST) with following Menu operations.
- 1.	Search an element in BST(Display NULL if not found, If found Display Found)
- 2.	Insert an element in BST
- 3.	Delete leaf element in BST
- 4.	Exit](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab6_BinarySearchTree.c)
+Lab6. [Implement Binary search tree(BST) with following Menu operations.1.	Search an element in BST(Display NULL if not found, If found Display Found)2.	Insert an element in BST3.	Delete leaf element in BST4.	Exit](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab6_BinarySearchTree.c)
 
 
 Lab7. [Consider the undirected graph G, consisting of n nodes laid out in a 3 -by- 3 grid: Start searching at node 1, and break ties for exploring
