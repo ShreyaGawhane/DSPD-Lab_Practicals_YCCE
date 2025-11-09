@@ -26,3 +26,12 @@ d. Demonstrate Overflow and Underflow situations on Stack
 e.Display the status of Stack
 f.Exit.
 Support the program with appropriate functions for each of the above operations.](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab2_Stack.c)
+
+
+Lab3. [Write a program to Implement a menu driven Program in C for the following operations on QUEUE of Characters (Array Implementation of Queue with maximum size MAX)
+a.Insert an Element on to QUEUE.
+b. Delete an Element from QUEUE.
+c.Demonstrate Overflow and Underflow situations on QUEUE.
+d. Display the status of QUEUE.
+e.Exit
+Support the program with appropriate functions for each of the above operations.](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab3_Queue.c)
