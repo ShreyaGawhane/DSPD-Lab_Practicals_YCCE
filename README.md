@@ -56,6 +56,16 @@ nodes marked as explored by BFS? (b) In what order are nodes marked as explored 
 Lab8. [Write a Program to implement Kruskal's Algorithm in order to find the Minimum Spanning Tree(MST) of a connected,weighted and undirected graph.](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab8_MST.c)
 
 
+Lab9. [Assume that you have a seven-slot closed hash table (the slots are numbered o through 6) Write program to final hash table that would result 
+if you used the hash function h(k) - k mod 7.](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab9_HashTable.c)
+
+
+Lab10. [Write a C program (name it "filecopy. c")  that copies the contents of one file to a destination file.
+This program will read data from one file and copy them to another. The first input that the program will need is the names of the two files: 
+input file ("input.txt") and output file ("output.txt"). Once the two file names have been obtained,the program must open the input file and create
+and open the output file.](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/lab10_FileCopy.c)
+
+
 
 
 
