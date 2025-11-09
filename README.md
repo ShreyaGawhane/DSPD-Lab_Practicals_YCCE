@@ -46,15 +46,21 @@ Binary Tree(Display NULL if not found, If found Display Found)](https://github.c
 
 
 Lab6. [Implement Binary search tree(BST) with following Menu operations.
-1.	Search an element in BST(Display NULL if not found, If found Display Found)
-2.	Insert an element in BST
-3.	Delete leaf element in BST
-4.	Exit](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab6_BinarySearchTree.c)
+ 1.	Search an element in BST(Display NULL if not found, If found Display Found)
+ 2.	Insert an element in BST
+ 3.	Delete leaf element in BST
+ 4.	Exit](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab6_BinarySearchTree.c)
 
 
 Lab7. [Consider the undirected graph G, consisting of n nodes laid out in a 3 -by- 3 grid: Start searching at node 1, and break ties for exploring
 the next node based on lower numerical order (i.e. add nodes to a queue low to high, add nodes to a stack high to low). (a) In what order are
 nodes marked as explored by BFS? (b) In what order are nodes marked as explored by DFS?](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab7_DFS_BFS.c)
+
+
+Lab8. [Write a Program to implement Kruskal's Algorithm in order to find the Minimum Spanning Tree(MST) of a connected,weighted and undirected graph.](https://github.com/ShreyaGawhane/DSPD-Lab_Practicals_YCCE/blob/main/Codes/Lab8_MST.c)
+
+
+
 
 
 
